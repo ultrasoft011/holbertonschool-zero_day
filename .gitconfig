@@ -1,0 +1,5 @@
+[user]
+	name = ultrasoft011
+	email = ultrasoft.011@gmail.com
+[credential]
+	helper = cache --timeout=45000
