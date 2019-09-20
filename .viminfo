@@ -8,6 +8,7 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:q
 :wq!
 :x
 :w
@@ -41,11 +42,24 @@
 	>>>>>>> bc7219be89dfc77683c96697425e00f3daa04a4f
 
 # File marks:
-'0  3  0  ~/holberton-system_engineering-devops/0x00-shell_basics/5-listfilesdigitonly
-'1  1  0  ~/holbertonschool-zero_day/README.md
+'0  10  0  ~/holbertonschool-low_level_programming/0x00-hello_world/4-puts.c
+'1  3  0  ~/holberton-system_engineering-devops/0x00-shell_basics/5-listfilesdigitonly
 '2  1  0  ~/holbertonschool-zero_day/README.md
+'3  1  0  ~/holbertonschool-zero_day/README.md
 
 # Jumplist (newest first):
+-'  10  0  ~/holbertonschool-low_level_programming/0x00-hello_world/4-puts.c
+-'  1  0  ~/holbertonschool-low_level_programming/0x00-hello_world/4-puts.c
+-'  3  0  ~/holberton-system_engineering-devops/0x00-shell_basics/5-listfilesdigitonly
+-'  1  0  ~/holberton-system_engineering-devops/0x00-shell_basics/5-listfilesdigitonly
+-'  1  0  ~/holbertonschool-zero_day/README.md
+-'  1  0  ~/holbertonschool-zero_day/..README.md
+-'  1  0  ~/holbertonschool-zero_day/README.md
+-'  1  0  ~/holbertonschool-zero_day/README.md
+-'  1  0  ~/holbertonschool-zero_day/README.md
+-'  1  0  ~/holbertonschool-zero_day/..README.md
+-'  1  0  ~/holbertonschool-zero_day/README.md
+-'  1  0  ~/holbertonschool-zero_day/README.md
 -'  3  0  ~/holberton-system_engineering-devops/0x00-shell_basics/5-listfilesdigitonly
 -'  1  0  ~/holberton-system_engineering-devops/0x00-shell_basics/5-listfilesdigitonly
 -'  1  0  ~/holbertonschool-zero_day/README.md
@@ -58,6 +72,10 @@
 -'  1  0  ~/holbertonschool-zero_day/README.md
 
 # History of marks within files (newest to oldest):
+
+> ~/holbertonschool-low_level_programming/0x00-hello_world/4-puts.c
+	"	10	0
+	^	10	0
 
 > ~/holberton-system_engineering-devops/0x00-shell_basics/5-listfilesdigitonly
 	"	3	0

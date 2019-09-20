@@ -882,3 +882,101 @@ cd .
 cd ..
 ls
 git pull origin master
+man alias
+man alia
+man alias
+ls
+cd holberton-system_engineering-devops/
+ls
+mkdir 0x03-shell_variables_expansions
+ls
+cd 0x03-shell_variables_expansions/
+ls
+emacs README.md
+ls
+emacs 0-alias
+ls
+id
+id user
+id .
+id ..
+id .
+id
+uid
+id
+STR="Hello" id | echo $STR
+STR="HellO id" | echo $STR
+STR="Hello (id) | echo $STR
+
+STR="Hello (id) | echo $STR
+
+
+YOU="id"
+echo $YOU
+YOU=id
+echo $YOU
+id
+man id
+id -u
+YOU=id -u
+id -u = YOU
+YOU=id -u
+echo $(id -u)
+echo Hello $(id -u)
+STR="Hello" id | echo $STR
+echo hello ($id -u)
+echo hello $(id -u)
+echo "$PATH"
+man add
+man -add
+man add
+add /action echo $PATH
+man echo
+echo PATH + /action
+echo PATH
+echo $PATCH
+/PATCH
+PATH
+/PATH
+echo $PATH
+echo $PATH+/action
+ls
+less 0-alias 
+emacs 0-alias 
+chmod u+x 0-alias
+ls
+emacs 1-hello_you
+less 1-hello_you 
+chmod u+x 1-hello_you 
+ls
+emacs /holberton-system_engineering-devops/0x03-shell_variables_expansions$ PATH
+ls
+less 1-hello_you 
+emacs 2-path
+chmod u+x 2-path 
+ls
+emacs PATH
+emacs .update
+chmod u+x update
+ls
+emacs update
+ls
+chmod u+x update 
+ls
+git config --global credential.helper "cache --timeout=45000"
+./update 
+git add .
+ls
+git add .
+git status
+git pull origin master
+cd
+git add .
+ls
+cd holberton-system_engineering-devops/
+ls
+0x03-shell_variables_expansions/
+ls
+cd 0x03-shell_variables_expansions/
+ls
+git push origin master
